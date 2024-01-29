@@ -4,8 +4,8 @@ import { ProductService } from "./product.service";
 import { Subscription } from "rxjs";
 
 @Component({
-    templateUrl: './product-list-component.html',
-    styleUrls: ['./product-list-component.css']
+    templateUrl: './product-list.component.html',
+    styleUrls: ['./product-list.component.css']
 })
 export class ProductListComponent implements OnInit, OnDestroy {
     pageTitle: string = "Product List";
