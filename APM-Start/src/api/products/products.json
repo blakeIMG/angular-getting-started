@@ -48,5 +48,15 @@
     "price": 35.95,
     "starRating": 4.6,
     "imageUrl": "assets/images/xbox-controller.png"
+  },
+  {
+    "productId": 11,
+    "productName": "Something Else",
+    "productCode": "GMG-0069",
+    "releaseDate": "October 20, 2023",
+    "description": "Standard Stuff",
+    "price": 35.69,
+    "starRating": 1.5,
+    "imageUrl": "assets/images/logo.jpg"
   }
 ]
